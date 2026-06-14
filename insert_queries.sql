@@ -144,5 +144,5 @@ VALUES
 ('RS118', 'IS120', '2024-05-29');
 SELECT * FROM issued_status;
 SELECT * FROM return_status;
-SELECT * FROM re;
+
 
